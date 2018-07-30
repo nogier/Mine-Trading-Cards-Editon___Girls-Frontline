@@ -1,0 +1,10 @@
+{
+	"id":"thompson",
+	"edition":"girls_frontline",
+	"rarity":"anc",
+
+	"name":"Thompson",
+	"category":"Sub Machine Gun",
+	"asset":"Girls Frontline/016_Thompson",
+	"weight":2
+}

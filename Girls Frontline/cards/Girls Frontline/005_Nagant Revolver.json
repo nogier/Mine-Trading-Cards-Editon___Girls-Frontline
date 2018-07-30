@@ -1,0 +1,10 @@
+{
+	"id":"nagant_revolver",
+	"edition":"girls_frontline",
+	"rarity":"com",
+
+	"name":"Nagant Revolver",
+	"category":"Hand Gun",
+	"asset":"Girls Frontline/005_Nagant Revolver",
+	"weight":8
+}

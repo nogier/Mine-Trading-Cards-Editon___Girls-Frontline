@@ -1,0 +1,10 @@
+{
+	"id":"fal",
+	"edition":"girls_frontline",
+	"rarity":"anc",
+
+	"name":"FAL",
+	"category":"Assault Rifle",
+	"asset":"Girls Frontline/106_FAL",
+	"weight":2
+}

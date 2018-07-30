@@ -1,0 +1,10 @@
+{
+	"id":"colt_revolver",
+	"edition":"girls_frontline",
+	"rarity":"rar",
+
+	"name":"Colt Revolver",
+	"category":"Hand Gun",
+	"asset":"Girls Frontline/001_Colt Revolver",
+	"weight":4
+}

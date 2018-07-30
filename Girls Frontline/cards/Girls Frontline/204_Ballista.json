@@ -1,0 +1,10 @@
+{
+	"id":"ballista",
+	"edition":"girls_frontline",
+	"rarity":"anc",
+
+	"name":"Ballista",
+	"category":"Rifle",
+	"asset":"Girls Frontline/204_Ballista",
+	"weight":2
+}

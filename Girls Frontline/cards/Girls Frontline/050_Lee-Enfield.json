@@ -1,0 +1,10 @@
+{
+	"id":"lee_enfield",
+	"edition":"girls_frontline",
+	"rarity":"anc",
+
+	"name":"Lee-Enfield",
+	"category":"Rifle",
+	"asset":"Girls Frontline/050_Lee-Enfield",
+	"weight":2
+}
